@@ -1,4 +1,4 @@
-**A website for everyone who loves grilled cheese.**
+**A website for everyone who hates grilled cheese.**
 
 Make sure to star it.
 
